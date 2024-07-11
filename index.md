@@ -1,19 +1,18 @@
 ---
 layout: page
-# title: Deepti Ghadiyaram
+# title: Vivek Singh
 ---
 <br>
 <figure>
  <img align="left" src="/assets/vivek_pic.jpeg" width="300">
 <figcaption> [<a href="mailto: vivek.singh [at] plymouth [dot] ac [dot] uk">Email</a>] [<a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en">Google Scholar</a>]  
  [<a href="https://www.linkedin.com/in/vivekbawa/">LinkedIn</a>] 
- [Bio](#short-bio)
  </figcaption>
 </figure>
 
 
 
-# Dr. Vivek Singh
+# About me
 
 Vivek Singh is a Lecturer in Artificial Intelligence at the School of Engineering, Computing and Mathematics, University of Plymouth. He teaches AI-related courses at both undergraduate and postgraduate levels. Before joining the University of Plymouth, he contributed to the development of AI-based virtual advertisement solutions for live broadcasts at Supponor as a Computer Vision Researcher. He also worked as a Research Fellow at the Visual Artificial Intelligence Lab of Oxford Brookes University prior to that. His PhD in Computer Vision focused on human facial expression analysis and model architecture optimization.
 
@@ -22,7 +21,6 @@ His research tackles critical challenges at the frontier of Computer Vision and 
 ## Research Themes
 
 The key themes of Vivek's research include:
-
 - Extracting meaningful features from unlabelled images and videos by using the structural properties of visual scenes and integrating multiple modalities.
 - Analyzing surgical actions in endoscopic videos for automated surgical assistance during medical interventions.
 - Conducting medical image analysis for tasks such as tumor detection and image enhancement across various modalities, such as MRI and CT scans.
@@ -30,7 +28,10 @@ The key themes of Vivek's research include:
 
 ## Research Students
 
-- Name, topic
+- **Shaheer Afridi**: topic
+- **Utsab Chalise**: topic
+- **Akintade Egbetakin**: topic
+- **Efoma Ibude**: topic
 
 
 
