@@ -10,7 +10,7 @@ layout: page
         <p><strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
         <a href="https://www.linkedin.com/in/vivekbawa/" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;"><strong>LinkedIn</strong></a>
         <a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #4285f4; color: white; text-decoration: none; border-radius: 5px;"><strong>Google Scholar</strong></a></p>
-        <p> <strong>Email:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA</p>
+        <p> <strong>Office:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA</p>
     </div>
 </div>
 
