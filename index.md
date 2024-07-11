@@ -6,7 +6,7 @@ layout: page
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="/assets/img/viveksingh.png" alt="Vivek Singh" style="width: 170px; border-radius: 70%; margin-right: 20px;">
     <div>
-        <p style="font-size: 18px; font-weight: bold;">Vivek Singh</p>
+        <p style="font-size: 20px; font-weight: bold;">Vivek Singh</p>
         <p><strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
         <a href="https://www.linkedin.com/in/vivekbawa/" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;"><strong>LinkedIn</strong></a>
         <a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #4285f4; color: white; text-decoration: none; border-radius: 5px;"><strong>Google Scholar</strong></a></p>
@@ -17,8 +17,7 @@ layout: page
 <br clear="left">
 
 
-
-<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
 
 ## About me
 
@@ -28,7 +27,7 @@ His research tackles critical challenges at the frontier of Computer Vision and 
 
 </div>
 
-<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
 
 ## Research Themes
 
@@ -40,7 +39,7 @@ The key themes of Vivek's research include:
 
 </div>
 
-<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
 
 ## Research Students
 
@@ -51,7 +50,7 @@ The key themes of Vivek's research include:
 
 </div>
 
-<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
 
 ## Professional Activities
 - **Workshop and Challenges Organizer:** 
@@ -68,6 +67,7 @@ The key themes of Vivek's research include:
    - International Conference on Computer Vision, 2021
    - The British Machine Vision Conference, 2021
    - Neural Networks Journal
+   - IEEE Transactions on Neural Networks and Learning Systems
 
 </div>
 
