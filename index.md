@@ -1,7 +1,16 @@
 ---
 layout: page
-# title: Vivek Singh
+title: Vivek Singh
 ---
+<br>
+<figure>
+ <img align="left" src="/assets/vivek_pic.jpeg" width="330">
+<figcaption> [<a href="mailto: vivek.singh@plymouth.ac.uk">Email</a>] 
+ [<a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en">Google Scholar</a>]  
+ [<a href="https://www.linkedin.com/in/vivekbawa/">LinkedIn</a>] 
+ </figcaption>
+</figure>
+
 <br>
 <figure>
  <img align="left" src="/assets/vivek_pic.jpeg" width="300">
@@ -10,9 +19,7 @@ layout: page
  </figcaption>
 </figure>
 
-
-
-# About me
+## About me
 
 Vivek Singh is a Lecturer in Artificial Intelligence at the School of Engineering, Computing and Mathematics, University of Plymouth. He teaches AI-related courses at both undergraduate and postgraduate levels. Before joining the University of Plymouth, he contributed to the development of AI-based virtual advertisement solutions for live broadcasts at Supponor as a Computer Vision Researcher. He also worked as a Research Fellow at the Visual Artificial Intelligence Lab of Oxford Brookes University prior to that. His PhD in Computer Vision focused on human facial expression analysis and model architecture optimization.
 
@@ -28,10 +35,10 @@ The key themes of Vivek's research include:
 
 ## Research Students
 
-- **Shaheer Afridi**: topic
-- **Utsab Chalise**: topic
-- **Akintade Egbetakin**: topic
-- **Efoma Ibude**: topic
+- **Shaheer Afridi**: "Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"
+- **Utsab Chalise**: "Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"
+- **Akintade Egbetakin**: "Computer Vision and Deep Learning for the Detection of COVID 19, Pneumonia, and Tuberculosis using Chest X ray Images"
+- **Efoma Ibude**: "Satellite Image Super Resolution Using GAN Techniques"
 
 
 
@@ -48,7 +55,7 @@ The key themes of Vivek's research include:
 
 - **Reviewer for Journals and Conferences:** 
    - International Conference on Computer Vision, 2021
-   - Elec. Letters 2016 - 2019, IEEE Trans. on Circuits and Syst. for Video Tech. 2015 - 2019
-   - Digital Signal Proc. 2015 - 2019, EURASIP J. on Image and Video Proc. 2015 - 2019
-   - J. of Selected Topics in Signal Proc. 2015 - 2019
+   - The British Machine Vision Conference, 2021
+   - Neural Networks Journal
  
+
