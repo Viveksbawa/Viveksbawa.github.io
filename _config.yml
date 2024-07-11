@@ -56,12 +56,12 @@ social-network-links:
   #facebook: deanattali
   github: https://github.com/Viveksbawa
   #twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+  # patreon: DeanAttali
+  # youtube: "@daattali"
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: https://www.linkedin.com/in/vivekbawa/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -76,7 +76,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ google-scholar: https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
