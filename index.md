@@ -2,22 +2,18 @@
 layout: page
 title: Vivek Singh
 ---
-<br>
-<figure>
- <img align="left" src="/assets/vivek_pic.jpeg" width="330">
-<figcaption> [<a href="mailto: vivek.singh@plymouth.ac.uk">Email</a>] 
- [<a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en">Google Scholar</a>]  
- [<a href="https://www.linkedin.com/in/vivekbawa/">LinkedIn</a>] 
- </figcaption>
-</figure>
 
-<br>
-<figure>
- <img align="left" src="/assets/vivek_pic.jpeg" width="300">
-<figcaption> [<a href="mailto: vivek.singh [at] plymouth [dot] ac [dot] uk">Email</a>] [<a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en">Google Scholar</a>]  
- [<a href="https://www.linkedin.com/in/vivekbawa/">LinkedIn</a>] 
- </figcaption>
-</figure>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="/assets/vivek_pic.jpeg" alt="Vivek Singh" style="width: 150px; border-radius: 50%; margin-right: 20px;">
+    <div>
+        <p><strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
+        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vivekbawa/">linkedin.com/in/vivekbawa</a></p>
+        <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en">scholar.google.com/viveksingh</a></p>
+    </div>
+</div>
+
+<br clear="left">
+
 
 ## About me
 
