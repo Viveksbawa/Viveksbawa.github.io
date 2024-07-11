@@ -37,32 +37,31 @@ The key themes of Vivek's research include:
 
 ## Research Students
 
-<table>
-<tr>
-    <td> **Shaheer Afridi** </td>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td><strong>Shaheer Afridi</strong></td>
     <td>"Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"</td>
   </tr>
-<tr>
-    <td> **Utsab Chalise** </td>
+  <tr>
+    <td><strong>Utsab Chalise</strong></td>
     <td>"Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"</td>
   </tr>
-<tr>
-    <td> **Akintade Egbetakin** </td>
-    <td>"Computer Vision and Deep Learning for the Detection of COVID 19, Pneumonia, and Tuberculosis using Chest X ray Images"</td>
-  </tr>  
-<tr>
-    <td> **Efoma Ibude** </td>
+  <tr>
+    <td><strong>Akintade Egbetakin</strong></td>
+    <td>"Computer Vision and Deep Learning for the Detection of COVID-19, Pneumonia, and Tuberculosis using Chest X-ray Images"</td>
+  </tr>
+  <tr>
+    <td><strong>Efoma Ibude</strong></td>
     <td>"Satellite Image Super Resolution Using GAN Techniques"</td>
   </tr>
 </table>
 
 
+
 - **Shaheer Afridi**: "Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"
-
 - **Utsab Chalise**: "Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"
-
 - **Akintade Egbetakin**: "Computer Vision and Deep Learning for the Detection of COVID 19, Pneumonia, and Tuberculosis using Chest X ray Images"
-
 - **Efoma Ibude**: "Satellite Image Super Resolution Using GAN Techniques"
 
 <hr>
