@@ -4,11 +4,12 @@ title: Vivek Singh
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="/assets/vivek_pic.jpeg" alt="Vivek Singh" style="width: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="/assets/viveksingh.png" alt="Vivek Singh" style="width: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
         <p><strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
-        <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vivekbawa/">linkedin.com/in/vivekbawa</a></p>
-        <p><strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en">scholar.google.com/viveksingh</a></p>
+        <p> <a href="https://www.linkedin.com/in/vivekbawa/"><strong>LinkedIn:</strong></a> <hr>
+        <a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en"><strong>Google Scholar:</strong></a></p>
+        <p> <strong>Email:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA</p>
     </div>
 </div>
 
