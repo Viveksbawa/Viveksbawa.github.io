@@ -36,6 +36,27 @@ The key themes of Vivek's research include:
 <hr>
 
 ## Research Students
+
+<table>
+<tr>
+    <td> **Shaheer Afridi** </td>
+    <td>"Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"</td>
+  </tr>
+<tr>
+    <td> **Utsab Chalise** </td>
+    <td>"Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"</td>
+  </tr>
+<tr>
+    <td> **Akintade Egbetakin** </td>
+    <td>"Computer Vision and Deep Learning for the Detection of COVID 19, Pneumonia, and Tuberculosis using Chest X ray Images"</td>
+  </tr>  
+<tr>
+    <td> **Efoma Ibude** </td>
+    <td>"Satellite Image Super Resolution Using GAN Techniques"</td>
+  </tr>
+</table>
+
+
 - **Shaheer Afridi**: "Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"
 
 - **Utsab Chalise**: "Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"
