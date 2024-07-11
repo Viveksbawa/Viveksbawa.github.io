@@ -51,15 +51,11 @@ The key themes of Vivek's research include:
    - International Workshop on Artificial Intelligence and Deep Learning Methods for Human Centric Systems at ICUMT 2023
    - SARAS endoscopic vision challenge for surgeon action detection at MIDL 2020
    - SARAS challenge on Multi-domain Endoscopic Surgeon Action Detection at MICCAI 2021
-   
-<br>
 
 - **Advisory and Program Committee Member:** 
     - International Conference on Machine Learning Algorithms, 2024
     - International Conference on Intelligent Systems for Sustainable Future, 2024
     - International Conference on Emerging Trends in Electrical, Electronic and Communications Engineering, 2022
-
-<br>
 
 - **Reviewer for Journals and Conferences:** 
    - International Conference on Computer Vision, 2021
