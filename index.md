@@ -1,27 +1,30 @@
 ---
 layout: page
-title: Vivek Singh
+#title: Vivek Singh
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="/assets/viveksingh.png" alt="Vivek Singh" style="width: 150px; border-radius: 50%; margin-right: 20px;">
+    <img src="/assets/img/viveksingh.png" alt="Vivek Singh" style="width: 150px; border-radius: 50%; margin-right: 20px;">
     <div>
+        <p style="font-size: 18px; font-weight: bold;">Vivek Singh</p>
         <p><strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
-        <p> <a href="https://www.linkedin.com/in/vivekbawa/"><strong>LinkedIn:</strong></a> <hr>
-        <a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en"><strong>Google Scholar:</strong></a></p>
+        <p> <a href="https://www.linkedin.com/in/vivekbawa/"><strong>[LinkedIn]</strong></a> 
+        <a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en"><strong>[Google Scholar]</strong></a></p>
         <p> <strong>Email:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA</p>
     </div>
 </div>
 
 <br clear="left">
 
-
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px;">
 ## About me
 
 Vivek Singh is a Lecturer in Artificial Intelligence at the School of Engineering, Computing and Mathematics, University of Plymouth. He teaches AI-related courses at both undergraduate and postgraduate levels. Before joining the University of Plymouth, he contributed to the development of AI-based virtual advertisement solutions for live broadcasts at Supponor as a Computer Vision Researcher. He also worked as a Research Fellow at the Visual Artificial Intelligence Lab of Oxford Brookes University prior to that. His PhD in Computer Vision focused on human facial expression analysis and model architecture optimization.
 
 His research tackles critical challenges at the frontier of Computer Vision and Artificial Intelligence, with applications in medical imaging, scene understanding, video analysis, and more.
 
+
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px;">
 ## Research Themes
 
 The key themes of Vivek's research include:
@@ -30,6 +33,8 @@ The key themes of Vivek's research include:
 - Conducting medical image analysis for tasks such as tumor detection and image enhancement across various modalities, such as MRI and CT scans.
 - Enhancement and manipulation of image and video quality through generative learning and super-resolution techniques.
 
+
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px;">
 ## Research Students
 
 - **Shaheer Afridi**: "Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"
@@ -38,7 +43,7 @@ The key themes of Vivek's research include:
 - **Efoma Ibude**: "Satellite Image Super Resolution Using GAN Techniques"
 
 
-
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 15px;">
 ## Professional Activities
 - **Workshop and Challenges Organizer:** 
    - International Workshop on Artificial Intelligence and Deep Learning Methods for Human Centric Systems at ICUMT 2023
@@ -54,5 +59,6 @@ The key themes of Vivek's research include:
    - International Conference on Computer Vision, 2021
    - The British Machine Vision Conference, 2021
    - Neural Networks Journal
- 
+</div>
+
 
