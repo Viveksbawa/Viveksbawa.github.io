@@ -28,10 +28,10 @@ His research tackles critical challenges at the frontier of Computer Vision and 
 
 ## Research Themes
 The key themes of Vivek's research include:
-    - Extracting meaningful features from unlabelled images and videos by using the structural properties of visual scenes and integrating multiple modalities.
-    - Analyzing surgical actions in endoscopic videos for automated surgical assistance during medical interventions.
-    - Conducting medical image analysis for tasks such as tumor detection and image enhancement across various modalities, such as MRI and CT scans.
-    - Enhancement and manipulation of image and video quality through generative learning and super-resolution techniques.
+- Extracting meaningful features from unlabelled images and videos by using the structural properties of visual scenes and integrating multiple modalities.
+- Analyzing surgical actions in endoscopic videos for automated surgical assistance during medical interventions.
+- Conducting medical image analysis for tasks such as tumor detection and image enhancement across various modalities, such as MRI and CT scans.
+- Enhancement and manipulation of image and video quality through generative learning and super-resolution techniques.
 
 <hr>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 ---
 
 
@@ -36,8 +36,12 @@ title: research
  </td>
 </tr>
 
+<br>
+<br>
+
 
 # Datasets
+<hr>
 
 <tr rules=none>
 <td>
