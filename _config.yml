@@ -22,7 +22,7 @@ author: Vivek Singh
 navbar-links:
   Home: "index"
   Research: "research"
-  Teaching: "teaching"
+  # Teaching: "teaching"
   # CV: "temp"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"

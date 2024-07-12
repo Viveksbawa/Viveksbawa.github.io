@@ -36,27 +36,18 @@ layout: page
 </div>
 
 
+
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
-    <h3>Research Students</h3>
-    <table class="table">
-        <tr>
-            <td><strong>Shaheer Afridi</strong></td>
-            <td>"Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"</td>
-        </tr>
-        <tr>
-            <td><strong>Utsab Chalise</strong></td>
-            <td>"Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"</td>
-        </tr>
-        <tr>
-            <td><strong>Akintade Egbetakin</strong></td>
-            <td>"Computer Vision and Deep Learning for the Detection of COVID-19, Pneumonia, and Tuberculosis using Chest X-ray Images"</td>
-        </tr>
-        <tr>
-            <td><strong>Efoma Ibude</strong></td>
-            <td>"Satellite Image Super Resolution Using GAN Techniques"</td>
-        </tr>
-    </table>
+    <h3>Module Taught</h3>
+    <ul>
+        <li>COMP5013:Topics in Applied Artificial Intelligence</li>
+        <li>COMP2000: Software Engineering 2</li>
+        <li>COMP3000: Computing Project</li>
+        <li>WBL203: Work Based Learning</li>
+    </ul>
 </div>
+
+
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
     <h3>Professional Activities</h3>
