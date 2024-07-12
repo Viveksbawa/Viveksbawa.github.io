@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<div style="border: 1px solid #ddd; background-color: #f7f7f7; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #9c9a84; padding: 15px; margin-bottom: 15px;">
     <h3>Key Publications</h3>
 </div>
 
@@ -53,7 +53,7 @@ title: Research
 
 
 
-<div style="border: 1px solid #ddd; background-color: #f7f7f7; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #9c9a84; padding: 15px; margin-bottom: 15px;">
     <h3>Datasets</h3>
 </div>
 
@@ -83,15 +83,19 @@ title: Research
 
 
 
-<div style="border: 1px solid #ddd; background-color: #9c9c9c; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #9c9a84; padding: 15px; margin-bottom: 15px;">
     <h3>Softwares</h3>
 </div>
 
-<iframe src="https://drive.google.com/file/d/1Ey32z2bgyEDJ0YEFsLnscKr91nQE6dvB/preview" width="320" height="240" allow="autoplay"></iframe>
-This is a test video
 
-## Video Presentation
-<video width="600" controls>
-  <source src="https://drive.google.com/file/d/1Ey32z2bgyEDJ0YEFsLnscKr91nQE6dvB/view?usp=sharing" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<div style= "display: flex; width: 100%;">
+    <div style= "flex: 1; padding: 10px; width: 100%;">
+        <iframe src="https://drive.google.com/file/d/1Ey32z2bgyEDJ0YEFsLnscKr91nQE6dvB/preview" width="320" height="240" allow="autoplay"></iframe>
+    </div>
+
+    <div style= "flex: 1; padding: 10px;">
+        <h2>Video Details</h2>
+        <p>Write your description about the video content here. You can add multiple paragraphs, headings, or other elements to structure your details.</p>
+    </div>
+</div>
