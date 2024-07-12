@@ -6,7 +6,7 @@ layout: page
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="/assets/img/viveksingh.png" alt="Vivek Singh" style="width: 170px; border-radius: 70%; margin-right: 20px;">
     <div>
-        <p style="font-size: 20px; font-weight: bold;">Vivek Singh</p>
+        <p style="font-size: 24px; font-weight: bold;">Vivek Singh</p>
         <p><strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
         <p> <strong>Office:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA</p>
         <a href="https://www.linkedin.com/in/vivekbawa/" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;"><strong>LinkedIn</strong></a>
@@ -15,7 +15,7 @@ layout: page
     </div>
 </div>
 
-
+<br>
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
     <h3>About me</h3>
