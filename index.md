@@ -15,73 +15,74 @@ layout: page
     </div>
 </div>
 
-<br clear="left">
-
-<hr>
 
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
-    <h2>About me</h2>
+    <h3>About me</h3>
     <p>Vivek Singh is a Lecturer in Artificial Intelligence at the School of Engineering, Computing and Mathematics, University of Plymouth. He teaches AI-related courses at both undergraduate and postgraduate levels. Before joining the University of Plymouth, he contributed to the development of AI-based virtual advertisement solutions for live broadcasts at Supponor as a Computer Vision Researcher. He also worked as a Research Fellow at the Visual Artificial Intelligence Lab of Oxford Brookes University prior to that. His PhD in Computer Vision focused on human facial expression analysis and model architecture optimization.</p>
     <p>His research tackles critical challenges at the frontier of Computer Vision and Artificial Intelligence, with applications in medical imaging, scene understanding, video analysis, and more.</p>
 </div>
 
 
-## About me
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
+    <h3>Research Themes</h3>
+    <p>The key themes of Vivek's research include:</p>
+    <ul>
+        <li>Extracting meaningful features from unlabelled images and videos by using the structural properties of visual scenes and integrating multiple modalities.</li>
+        <li>Analyzing surgical actions in endoscopic videos for automated surgical assistance during medical interventions.</li>
+        <li>Conducting medical image analysis for tasks such as tumor detection and image enhancement across various modalities, such as MRI and CT scans.</li>
+        <li>Enhancement and manipulation of image and video quality through generative learning and super-resolution techniques.</li>
+    </ul>
+</div>
 
 
-Vivek Singh is a Lecturer in Artificial Intelligence at the School of Engineering, Computing and Mathematics, University of Plymouth. He teaches AI-related courses at both undergraduate and postgraduate levels. Before joining the University of Plymouth, he contributed to the development of AI-based virtual advertisement solutions for live broadcasts at Supponor as a Computer Vision Researcher. He also worked as a Research Fellow at the Visual Artificial Intelligence Lab of Oxford Brookes University prior to that. His PhD in Computer Vision focused on human facial expression analysis and model architecture optimization.
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
+    <h3>Research Students</h3>
+    <table class="table">
+        <tr>
+            <td><strong>Shaheer Afridi</strong></td>
+            <td>"Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"</td>
+        </tr>
+        <tr>
+            <td><strong>Utsab Chalise</strong></td>
+            <td>"Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"</td>
+        </tr>
+        <tr>
+            <td><strong>Akintade Egbetakin</strong></td>
+            <td>"Computer Vision and Deep Learning for the Detection of COVID-19, Pneumonia, and Tuberculosis using Chest X-ray Images"</td>
+        </tr>
+        <tr>
+            <td><strong>Efoma Ibude</strong></td>
+            <td>"Satellite Image Super Resolution Using GAN Techniques"</td>
+        </tr>
+    </table>
+</div>
 
-His research tackles critical challenges at the frontier of Computer Vision and Artificial Intelligence, with applications in medical imaging, scene understanding, video analysis, and more.
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
+    <h3>Professional Activities</h3>
+    <ul>
+        <li><strong>Workshop and Challenges Organizer:</strong>
+            <ul>
+                <li>International Workshop on Artificial Intelligence and Deep Learning Methods for Human Centric Systems at ICUMT 2023</li>
+                <li>SARAS endoscopic vision challenge for surgeon action detection at MIDL 2020</li>
+                <li>SARAS challenge on Multi-domain Endoscopic Surgeon Action Detection at MICCAI 2021</li>
+            </ul>
+        </li>
+        <li><strong>Advisory and Program Committee Member:</strong>
+            <ul>
+                <li>International Conference on Machine Learning Algorithms, 2024</li>
+                <li>International Conference on Intelligent Systems for Sustainable Future, 2024</li>
+                <li>International Conference on Emerging Trends in Electrical, Electronic and Communications Engineering, 2022</li>
+            </ul>
+        </li>
+        <li><strong>Reviewer for Journals and Conferences:</strong>
+            <ul>
+                <li>International Conference on Computer Vision, 2021</li>
+                <li>The British Machine Vision Conference, 2021</li>
+                <li>Neural Networks Journal</li>
+            </ul>
+        </li>
+    </ul>
+</div>
 
-<hr>
-
-## Research Themes
-The key themes of Vivek's research include:
-- Extracting meaningful features from unlabelled images and videos by using the structural properties of visual scenes and integrating multiple modalities.
-- Analyzing surgical actions in endoscopic videos for automated surgical assistance during medical interventions.
-- Conducting medical image analysis for tasks such as tumor detection and image enhancement across various modalities, such as MRI and CT scans.
-- Enhancement and manipulation of image and video quality through generative learning and super-resolution techniques.
-
-<hr>
-
-## Research Students
-
-<table border="0" rules=none cellspacing="0" cellpadding="0">
-  <tr>
-    <td><strong>Shaheer Afridi</strong></td>
-    <td>"Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"</td>
-  </tr>
-  <tr>
-    <td><strong>Utsab Chalise</strong></td>
-    <td>"Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"</td>
-  </tr>
-  <tr>
-    <td><strong>Akintade Egbetakin</strong></td>
-    <td>"Computer Vision and Deep Learning for the Detection of COVID-19, Pneumonia, and Tuberculosis using Chest X-ray Images"</td>
-  </tr>
-  <tr>
-    <td><strong>Efoma Ibude</strong></td>
-    <td>"Satellite Image Super Resolution Using GAN Techniques"</td>
-  </tr>
-</table>
-
-
-<hr>
-
-## Professional Activities
-- **Workshop and Challenges Organizer:** 
-   - International Workshop on Artificial Intelligence and Deep Learning Methods for Human Centric Systems at ICUMT 2023
-   - SARAS endoscopic vision challenge for surgeon action detection at MIDL 2020
-   - SARAS challenge on Multi-domain Endoscopic Surgeon Action Detection at MICCAI 2021
-
-- **Advisory and Program Committee Member:** 
-    - International Conference on Machine Learning Algorithms, 2024
-    - International Conference on Intelligent Systems for Sustainable Future, 2024
-    - International Conference on Emerging Trends in Electrical, Electronic and Communications Engineering, 2022
-
-- **Reviewer for Journals and Conferences:** 
-   - International Conference on Computer Vision, 2021
-   - The British Machine Vision Conference, 2021
-   - Neural Networks Journal
 
