@@ -10,14 +10,14 @@ layout: page
         <br>Lecturer of Artificial Intelligence
         <br>University of Plymouth<br>
         <strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
-        <p> <strong>Office:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA</p>
+        <p> <strong>Office:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA.<br>
         <a href="https://www.linkedin.com/in/vivekbawa/" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;"><strong>LinkedIn</strong></a>
         <a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #4285f4; color: white; text-decoration: none; border-radius: 5px;"><strong>Google Scholar</strong></a>
-        <a href="https://www.plymouth.ac.uk/staff/vivek-singh" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #000000; color: white; text-decoration: none; border-radius: 5px;"><strong>UoP page</strong></a>
+        <a href="https://www.plymouth.ac.uk/staff/vivek-singh" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #000000; color: white; text-decoration: none; border-radius: 5px;"><strong>UoP page</strong></a></p>
     </div>
 </div>
 
-<br>
+
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
     <h3>About me</h3>
@@ -42,7 +42,7 @@ layout: page
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
     <h3>Module Taught</h3>
     <ul>
-        <li>COMP5013:Topics in Applied Artificial Intelligence</li>
+        <li>COMP5013: Topics in Applied Artificial Intelligence</li>
         <li>COMP2000: Software Engineering 2</li>
         <li>COMP3000: Computing Project</li>
         <li>WBL203: Work Based Learning</li>
