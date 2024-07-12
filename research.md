@@ -11,7 +11,7 @@ title: Research
 <table border="0" rules=none cellspacing="0" cellpadding="0">
  <tr rules=none>
 <td>
- <img width="300" height="100" src="../assets/img/IQA_visually_challenged.jpeg">
+ <img width="200" height="100" src="../assets/img/IQA_visually_challenged.jpeg">
 </td>
 <td>
 <b> Helping Visually Challenged People Take Better Quality Pictures</b> <br>
@@ -22,7 +22,7 @@ title: Research
 
 <tr rules=none>
 <td>
- <img width="300" height="120" src="../assets/img/eccv2022_counterfactuals.png">
+ <img width="200" height="120" src="../assets/img/eccv2022_counterfactuals.png">
 </td>
 <td>
 <b> Making Heads or Tails: Towards Semantically Consistent Visual Counterfactuals</b> <br>
@@ -36,7 +36,7 @@ title: Research
 
 <tr rules=none>
 <td>
- <img width="300" height="120" src="../assets/img/2022_telepresence.png">
+ <img width="200" height="120" src="../assets/img/2022_telepresence.png">
 </td>
 <td>
 <b>Telepresence Video Quality Assessment</b> <br>

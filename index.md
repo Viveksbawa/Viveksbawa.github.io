@@ -75,5 +75,3 @@ The key themes of Vivek's research include:
    - The British Machine Vision Conference, 2021
    - Neural Networks Journal
 
-
-
