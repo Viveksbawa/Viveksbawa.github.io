@@ -37,28 +37,7 @@ The key themes of Vivek's research include:
 
 ## Research Students
 
-<table style="width: 100%; background-color: #f9f9f9; border-collapse: collapse;">
-  <tr>
-    <td style="border-right: 1px solid #ccc; padding: 8px;"><strong>Shaheer Afridi</strong></td>
-    <td style="padding: 8px;">"Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"</td>
-  </tr>
-  <tr>
-    <td style="border-right: 1px solid #ccc; padding: 8px;"><strong>Utsab Chalise</strong></td>
-    <td style="padding: 8px;">"Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"</td>
-  </tr>
-  <tr>
-    <td style="border-right: 1px solid #ccc; padding: 8px;"><strong>Akintade Egbetakin</strong</td>
-    <td style="padding: 8px;">"Computer Vision and Deep Learning for the Detection of COVID-19, Pneumonia, and Tuberculosis using Chest X-ray Images"</td>
-  </tr>
-  <tr>
-    <td style="border-right: 1px solid #ccc; padding: 8px;"><strong>Efoma Ibude</strong></td>
-    <td style="padding: 8px;">"Satellite Image Super Resolution Using GAN Techniques"</td>
-  </tr>
-</table>
-
-
-
-<table style="border-collapse: collapse; width: 100%;">
+<table border="0" rules=none cellspacing="0" cellpadding="0">
   <tr>
     <td><strong>Shaheer Afridi</strong></td>
     <td>"Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"</td>
@@ -77,13 +56,6 @@ The key themes of Vivek's research include:
   </tr>
 </table>
 
-<br>
-
-
-- **Shaheer Afridi**: "Medical Imaging Segmentation through State-of-the-art Deep Learning Technique using 3D volumetric Data"
-- **Utsab Chalise**: "Generating Brain MRI Images for Spatial and Volumetric Upsampling Using Diffusion Techniques"
-- **Akintade Egbetakin**: "Computer Vision and Deep Learning for the Detection of COVID 19, Pneumonia, and Tuberculosis using Chest X ray Images"
-- **Efoma Ibude**: "Satellite Image Super Resolution Using GAN Techniques"
 
 <hr>
 
