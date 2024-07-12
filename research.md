@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: ##9c9c9c; padding: 15px; margin-bottom: 15px;">
     <h3>Key Publications</h3>
 </div>
 
@@ -52,12 +52,9 @@ title: Research
 
 
 
-<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: ##9c9c9c; padding: 15px; margin-bottom: 15px;">
     <h3>Datasets</h3>
 </div>
-
-
-
 
 <table border="0" rules=none cellspacing="0" cellpadding="0">
 
@@ -85,7 +82,12 @@ title: Research
 
 
 
-<iframe src="https://drive.google.com/file/d/1Ey32z2bgyEDJ0YEFsLnscKr91nQE6dvB/preview" width="640" height="480" allow="autoplay"></iframe>
+<div style="border: 1px solid #ddd; background-color: ##9c9c9c; padding: 15px; margin-bottom: 15px;">
+    <h3>Softwares</h3>
+</div>
+
+<iframe src="https://drive.google.com/file/d/1Ey32z2bgyEDJ0YEFsLnscKr91nQE6dvB/preview" width="320" height="240" allow="autoplay"></iframe>
+This is a test video
 
 ## Video Presentation
 <video width="600" controls>
