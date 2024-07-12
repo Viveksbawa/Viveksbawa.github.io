@@ -6,12 +6,13 @@ layout: page
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="/assets/img/viveksingh.png" alt="Vivek Singh" style="width: 170px; border-radius: 70%; margin-right: 20px;">
     <div>
-        <p style="font-size: 24px; font-weight: bold;">Vivek Singh</p>
-        <p><strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
+        <p style="font-size: 24px; font-weight: bold;">Vivek Singh <br> Lecturer of Artificial intelligence 
+        <br> University of Plymouth<br>
+        <strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
         <p> <strong>Office:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA</p>
         <a href="https://www.linkedin.com/in/vivekbawa/" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;"><strong>LinkedIn</strong></a>
         <a href="https://scholar.google.com/citations?user=-OcjbfYAAAAJ&hl=en" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #4285f4; color: white; text-decoration: none; border-radius: 5px;"><strong>Google Scholar</strong></a>
-        <a href="https://www.plymouth.ac.uk/staff/vivek-singh" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #000000; color: white; text-decoration: none; border-radius: 5px;"><strong>Homepage</strong></a>
+        <a href="https://www.plymouth.ac.uk/staff/vivek-singh" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #000000; color: white; text-decoration: none; border-radius: 5px;"><strong>UoP page</strong></a>
     </div>
 </div>
 

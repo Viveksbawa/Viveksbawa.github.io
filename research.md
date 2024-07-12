@@ -24,7 +24,7 @@ title: Research
 
 
 
-<div style="border: 1px solid #ddd; background-color: #a19f95; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #a6a6a6; padding: 15px; margin-bottom: 15px;">
     <h3>Research Students</h3>
 </div>
 
@@ -50,13 +50,13 @@ title: Research
 <br>
 
 
-<div style="border: 1px solid #ddd; background-color: #a19f95; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #a6a6a6; padding: 15px; margin-bottom: 15px;">
     <h3>Key Publications</h3>
 </div>
 
 
 <table border="0" rules=none cellspacing="0" cellpadding="0">
-<tr rules=none>
+<tr>
     <td>
         <img width="200" height="100" src="/assets/img/paper/facial.png">
     </td>
@@ -67,7 +67,7 @@ title: Research
         [<a href="https://www.sciencedirect.com/science/article/pii/S0957417418307619">link</a>] 
     </td>
 </tr>
-<tr rules=none>
+<tr>
     <td>
         <img width="200" height="100" src="/assets/img/paper/esad.png">
     </td>
@@ -78,7 +78,7 @@ title: Research
         [<a href="https://arxiv.org/pdf/2104.03178">pdf</a>] 
     </td>
 </tr>
-<tr rules=none>
+<tr>
     <td>
         <img width="200" height="100" src="/assets/img/paper/facial.png">
     </td>
@@ -94,7 +94,7 @@ title: Research
 <br>
 
 
-<div style="border: 1px solid #ddd; background-color: #a19f95; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #a6a6a6; padding: 15px; margin-bottom: 15px;">
     <h3>Datasets</h3>
 </div>
 
@@ -125,16 +125,16 @@ title: Research
 <br>
 
 
-<div style="border: 1px solid #ddd; background-color: #a19f95; padding: 15px; margin-bottom: 15px;">
+<div style="border: 1px solid #ddd; background-color: #a6a6a6; padding: 15px; margin-bottom: 15px;">
     <h3>Softwares</h3>
 </div>
 
 
 <div style= "display: flex; width: 100%;">
-    <div style= "flex: 1; padding: 10px; width: 100%;">
-        <iframe src="https://drive.google.com/file/d/1Ey32z2bgyEDJ0YEFsLnscKr91nQE6dvB/preview" width="320" height="240" allow="autoplay"></iframe>
+    <div style= "flex: 1; padding: 5px; width: 100%;">
+        <iframe src="https://drive.google.com/file/d/1Ey32z2bgyEDJ0YEFsLnscKr91nQE6dvB/preview" width="320" height="220" allow="autoplay"></iframe>
     </div>
-    <div style= "flex: 1; padding: 10px;">
+    <div style= "flex: 1; padding: 5px;">
         <p>Write your description about the video content here. You can add multiple paragraphs, headings, or other elements to structure your details.</p>
     </div>
 </div>
