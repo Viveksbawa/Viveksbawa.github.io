@@ -6,8 +6,9 @@ layout: page
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="/assets/img/viveksingh.png" alt="Vivek Singh" style="width: 170px; border-radius: 70%; margin-right: 20px;">
     <div>
-        <p style="font-size: 24px; font-weight: bold;">Vivek Singh <br> Lecturer of Artificial intelligence 
-        <br> University of Plymouth<br>
+        <p><span style="font-size: 24px; font-weight: bold;">Vivek Singh</span>
+        <br>Lecturer of Artificial Intelligence
+        <br>University of Plymouth<br>
         <strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
         <p> <strong>Office:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA</p>
         <a href="https://www.linkedin.com/in/vivekbawa/" style="display: inline-block; padding: 10px 20px; margin: 5px 0; background-color: #0077b5; color: white; text-decoration: none; border-radius: 5px;"><strong>LinkedIn</strong></a>

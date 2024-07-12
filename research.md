@@ -19,6 +19,12 @@ title: Research
         .table td:last-child {
             border-right: none;
         }
+        .image-cell {
+            /* Set a maximum width for the image */
+            max-width: 200px; 
+            /* Set height to auto to maintain aspect ratio */
+            height: auto;
+            }
     </style>
 </head>
 
@@ -56,8 +62,8 @@ title: Research
 
 
 <table border="0" rules=none cellspacing="0" cellpadding="0">
-<tr>
-    <td>
+<tr rules=none>
+    <td class="image-cell">
         <img width="200" height="100" src="/assets/img/paper/facial.png">
     </td>
     <td>
@@ -67,8 +73,8 @@ title: Research
         [<a href="https://www.sciencedirect.com/science/article/pii/S0957417418307619">link</a>] 
     </td>
 </tr>
-<tr>
-    <td>
+<tr rules=none>
+    <td class="image-cell">
         <img width="200" height="100" src="/assets/img/paper/esad.png">
     </td>
     <td>
@@ -78,8 +84,8 @@ title: Research
         [<a href="https://arxiv.org/pdf/2104.03178">pdf</a>] 
     </td>
 </tr>
-<tr>
-    <td>
+<tr rules=none>
+    <td class="image-cell">
         <img width="200" height="100" src="/assets/img/paper/facial.png">
     </td>
     <td>
