@@ -19,7 +19,17 @@ layout: page
 
 <hr>
 
+
+<div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
+    <h2>About me</h2>
+    <p>Vivek Singh is a Lecturer in Artificial Intelligence at the School of Engineering, Computing and Mathematics, University of Plymouth. He teaches AI-related courses at both undergraduate and postgraduate levels. Before joining the University of Plymouth, he contributed to the development of AI-based virtual advertisement solutions for live broadcasts at Supponor as a Computer Vision Researcher. He also worked as a Research Fellow at the Visual Artificial Intelligence Lab of Oxford Brookes University prior to that. His PhD in Computer Vision focused on human facial expression analysis and model architecture optimization.</p>
+    <p>His research tackles critical challenges at the frontier of Computer Vision and Artificial Intelligence, with applications in medical imaging, scene understanding, video analysis, and more.</p>
+</div>
+
+
 ## About me
+
+
 Vivek Singh is a Lecturer in Artificial Intelligence at the School of Engineering, Computing and Mathematics, University of Plymouth. He teaches AI-related courses at both undergraduate and postgraduate levels. Before joining the University of Plymouth, he contributed to the development of AI-based virtual advertisement solutions for live broadcasts at Supponor as a Computer Vision Researcher. He also worked as a Research Fellow at the Visual Artificial Intelligence Lab of Oxford Brookes University prior to that. His PhD in Computer Vision focused on human facial expression analysis and model architecture optimization.
 
 His research tackles critical challenges at the frontier of Computer Vision and Artificial Intelligence, with applications in medical imaging, scene understanding, video analysis, and more.
