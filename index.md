@@ -7,7 +7,7 @@ layout: page
     <img src="/assets/img/viveksingh.png" alt="Vivek Singh" style="width: 170px; border-radius: 70%; margin-right: 20px;">
     <div>
         <p><span style="font-size: 24px; font-weight: bold;">Vivek Singh</span>
-        <br>Lecturer of Artificial Intelligence
+        <br>Lecturer (Artificial Intelligence)
         <br>University of Plymouth<br>
         <strong>Email:</strong> <a href="mailto: vivek.singh@plymouth.ac.uk">vivek.singh@plymouth.ac.uk</a></p>
         <p> <strong>Office:</strong> A317, Portland Square, Drake Circus, Plymouth, PL4 8AA.<br>
