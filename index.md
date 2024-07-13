@@ -28,7 +28,7 @@ layout: page
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
     <h3>Research Themes</h3>
-    <p>The key themes of Vivek's research include:</p>
+    The key themes of Vivek's research include:
     <ul>
         <li>Extracting meaningful features from unlabelled images and videos by using the structural properties of visual scenes and integrating multiple modalities.</li>
         <li>Analyzing surgical actions in endoscopic videos for automated surgical assistance during medical interventions.</li>
@@ -40,7 +40,7 @@ layout: page
 
 
 <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; margin-bottom: 15px;">
-    <h3>Module Taught</h3>
+    <h3>Teaching</h3>
     <ul>
         <li>COMP5013: Topics in Applied Artificial Intelligence</li>
         <li>COMP2000: Software Engineering 2</li>
@@ -57,8 +57,8 @@ layout: page
         <li><strong>Workshop and Challenges Organizer:</strong>
             <ul>
                 <li>International Workshop on Artificial Intelligence and Deep Learning Methods for Human Centric Systems at ICUMT 2023</li>
-                <li>SARAS endoscopic vision challenge for surgeon action detection at MIDL 2020</li>
                 <li>SARAS challenge on Multi-domain Endoscopic Surgeon Action Detection at MICCAI 2021</li>
+                <li>SARAS endoscopic vision challenge for surgeon action detection at MIDL 2020</li>
             </ul>
         </li>
         <li><strong>Advisory and Program Committee Member:</strong>
@@ -73,6 +73,7 @@ layout: page
                 <li>International Conference on Computer Vision, 2021</li>
                 <li>The British Machine Vision Conference, 2021</li>
                 <li>Neural Networks Journal</li>
+                <li>IEEE Transactions on Neural Networks and Learning Systems</li>
             </ul>
         </li>
     </ul>

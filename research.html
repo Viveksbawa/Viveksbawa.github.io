@@ -30,7 +30,7 @@ title: Research
 <body>
 
 <div class="heading-block">
-    <h3>Research Students</h3>
+    <h3>Students</h3>
 </div>
 
 <table class="table">
@@ -57,7 +57,7 @@ title: Research
 
 
 <div class="heading-block">
-    <h3>Research Collaborators</h3>
+    <h3>Collaborators</h3>
 </div>
 
 <table class="table">
@@ -103,14 +103,15 @@ title: Research
             </figure>
         </td>
         <td style="width: 75%;">
-            The SARAS-ESAD is a surgical action detection dataset developed to build AI systems to assist surgeons 
-            during minimally invasive surgery. The system needs to detect and understand the actions performed by 
-            the surgeons in endoscopic videos in real-time. The datasets provide action information and locations 
-            annotations for surgical tools on recoded videos during real surgeries. The dataset contains 21 action 
-            classes and each frame is annotated for all the actions being performed in that instance. The dataset 
-            is divided into training, validation, and test sets. The training data contains over 22,000 frames 
-            with annotations for over 28,000 actions. The dataset was released in SARAS-ESAD challenge and can 
-            be downloaded from the challenge website. 
+            The SARAS-ESAD dataset is a surgical action detection dataset created to develop AI systems to 
+            assist surgeons during minimally invasive surgery, specifically Robotic-Assisted Radical 
+            Prostatectomy (RARP) procedures. The dataset is designed to recognize and localize the actions 
+            performed by surgeons in RARP videos. It contains 21 action classes. Each annotated frame has 
+            one or more action instances. The dataset is divided into training, validation, and test sets. 
+            The training data contains over 22,000 frames with annotations for over 28,000 actions. The dataset 
+            was released for the SARAS-ESAD challenge and can be downloaded from the challenge 
+            <a href="https://saras-esad.grand-challenge.org/">website</a>.
+            
         </td>
     </tr>
     <tr>
@@ -123,11 +124,14 @@ title: Research
             </figure>
         </td>
         <td style="width: 75%;">
-            The SARAS challenge expands the SARAS-ESAD dataset for surgeon action detection in 
-            Robotic-Assisted Radical Prostatectomy (RARP) surgery. It introduces the MESAD dataset 
-            with two parts: MESAD-Real capturing real-world RARP surgeries on patients, and MESAD-Phantom 
-            using videos of procedures on training phantoms designed for the challenge. Both datasets aim 
-            to improve AI systems' ability to detect surgeon actions during RARP surgery. 
+            The SARAS-MESAD dataset expands the SARAS-ESAD dataset for surgeon action detection in 
+            Robotic-Assisted Radical Prostatectomy (RARP) surgery. MESAD consists of two subsets: MESAD-Real 
+            and MESAD-Phantom. MESAD-Real contains videos of real RARP surgeries on patients, while MESAD-Phantom
+             includes videos of procedures performed on training phantoms with anatomically similar structures. 
+             The main objective of this dataset is to explore the possibility of using artificial phantoms to 
+             improve the performance of surgeon action detection on real patient data. For more details and to 
+             download the dataset, please visit the challenge 
+             <a href="https://saras-mesad.grand-challenge.org/">website</a>. 
         </td>
     </tr>
 </table>
@@ -150,12 +154,14 @@ title: Research
             </div>
             <strong><a href="https://github.com/Viveksbawa/SARAS-ESAD-Baseline">
                 Surgical Action Detection</a></strong><br>
-            Write your description about the video content here. You can add multiple paragraphs, 
-            headings, or other elements to structure your details. Write your description about the video content here. You can add multiple paragraphs, 
-            headings, or other elements to structure your details. Write your description about the video content here. You can add multiple paragraphs, 
-            headings, or other elements to structure your details. Write your description about the video content here. You can add multiple paragraphs, 
-            headings, or other elements to structure your details. Write your description about the video content here. You can add multiple paragraphs, 
-            headings, or other elements to structure your details.
+                This code implements a surgeon action detection model using a Feature Pyramid Network (FPN) 
+                architecture. The FPN leverages a convolutional neural network (CNN) with pooling layers to 
+                create a rich hierarchy of features for accurate action recognition. A powerful ResNet 
+                serves as the model's backbone, extracting features from various stages within the surgical 
+                video. These multi-level features are then processed to predict both the type of action 
+                (class label) and the bounding box location for the detected surgeon actions. To prevent 
+                overfitting and improve generalization, we employ a range of data augmentation techniques 
+                alongside freezing specific layers during training.
         </td>
     </tr>
     <tr>
@@ -166,11 +172,12 @@ title: Research
             </div>
             <strong><a href="https://github.com/Viveksbawa/semantic_SARAS">
                 Surgical Tools & Organs Segmentation</a></strong><br>
-                Semantic segmentation of surgical scene is very complex and difficult task. As we are dealing 
-                with deformable organs. Additionally, view point is very close as there is not much distance 
-                between endoscope camera and the organs. minor movement of the endoscope creates vast changes 
-                in structure of scene. We have developed a dataset for semantic scene understanding of 
-                surgical scene.
+                Semantic segmentation of surgical scenes is a very complex and challenging task. Two key 
+                factors contribute to this difficulty: the deformable nature of organs and the close viewpoint 
+                of the endoscope camera. Organs can change shape significantly throughout surgery, and the 
+                limited field of view from the close-up camera means even minor movements of the endoscope 
+                can drastically alter the scene's structure. To address these challenges, we have developed 
+                a segmentation model specifically for semantic understanding of surgical scenes.
         </td>
     </tr>
 </table>
@@ -180,7 +187,7 @@ title: Research
 
 
 <div class="heading-block">
-    <h3>Key Publications</h3>
+    <h3>Selected Publications</h3>
 </div>
 
 <table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
